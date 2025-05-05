@@ -1,19 +1,13 @@
-#menu{
-    margin-top: 20px;
-}
 
-#texto{
+
+#pf{
+   margin: 70px ;
+}
+.conteiner_card{
     display: flex;
+    justify-content: space-evenly;
 }
 
-#imagem_conteiner{
-    height: 100px;
-}
-
-#imagem_conteiner img{
-        height: 100%;
-}
-
-#texto_conteiner{
-    width: 400px;
+#cm{
+    margin-top: 70px;
 }
